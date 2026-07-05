@@ -1,6 +1,6 @@
-<h1 align="center">Mst Tasnim Nur</h1>
-<h3 align="center">Software Developer at JakaRiaz</h3>
-<h6 align="center">This is Mst Tasnim Nur, Software Developer at JakaRiaz, a leading software development company based in Dhaka, Bangladesh. <br> With over six years of experience in the industry, I specialize in crafting innovative software solutions that drive business growth and efficiency. <br> Our team at JakaRiaz is dedicated to delivering high-quality, customized applications tailored to meet the unique needs of our clients. <br> We focus on understanding specific requirements to deliver robust, scalable, and user-friendly applications. <br> Our expertise spans various technologies, including Laravel, WordPress, and the MERN stack.
+<h1 align="left">Mst Tasnim Nur</h1>
+<h3 align="left">Software Developer at JakaRiaz</h3>
+<h6 align="left">This is Mst Tasnim Nur, Software Developer at JakaRiaz, a leading software development company based in Dhaka, Bangladesh. <br> With over six years of experience in the industry, I specialize in crafting innovative software solutions that drive business growth and efficiency. <br> Our team at JakaRiaz is dedicated to delivering high-quality, customized applications tailored to meet the unique needs of our clients. <br><br> We focus on understanding specific requirements to deliver robust, scalable, and user-friendly applications. <br> Our expertise spans various technologies, including Laravel, WordPress, and the MERN stack.
 Whether you're looking for a mobile app, web-based platform, or enterprise software, we are committed to transforming your ideas into reality. </h6>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdjakarianur&" alt="mdjakarianur" /></p>
@@ -10,7 +10,7 @@ Whether you're looking for a mobile app, web-based platform, or enterprise softw
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdjakarianur&theme=tokyonight" />
 </p>
 
-- 🌱 I’m currently learning **JavaScript, PHP, Python, Java, C++, C#, React.js, Node.js, Exprees.js, MongDB, Tailwind, SQL.**
+- 🌱 I’m currently learning **Next.js, React.js, Node.js, Exprees.js, MongDB, Tailwind, JavaScript, PHP, Python, Java, SQL.**
 
 - 🔭 I’m currently working at [JakaRiaz ](https://www.jakariaz.com)
 
