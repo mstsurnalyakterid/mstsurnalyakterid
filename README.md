@@ -16,7 +16,7 @@ Whether you're looking for a mobile app, web-based platform, or enterprise softw
 
 - 👨‍💻 All of my projects are available at [Mst Surnaly Akter](https://www.mstsurnalyakter.com)
 
-- 📝 I regularly write articles on Programming at [Mst Tasnim Nur Site](https://www.site.msttasnimnur.com?/s)
+- 📝 I regularly write articles on Programming at [Mst Surnaly Akter Site](https://www.site.mstsurnalyakter.com?/s)
 - 📫 How to reach me **info.mstsurnalyakter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
